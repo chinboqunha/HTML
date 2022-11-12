@@ -1,0 +1,43 @@
+.globo{
+    justify-items: center;
+    text-align: center;
+    color: blue;
+}
+a{
+    padding-right: 50px;
+}
+.g1{
+    color: orange ;
+}
+.valor{
+    color: greenyellow;
+}
+.ge{
+    color:green ;
+}
+.cartola{
+    color:orangered ;
+}
+.globoplay{
+    color:red ;
+}
+.gshow{
+    color: orangered;
+}
+.quem{
+    color: black;
+}
+.receitas{
+    color: blueviolet;
+}
+.gigagloob{
+    color: aqua ;
+}
+
+table{
+    padding-top: 30%;
+}
+
+h1{
+    color: red;
+}
